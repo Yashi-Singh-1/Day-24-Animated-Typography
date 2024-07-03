@@ -8,7 +8,7 @@
 <img src="Preview.png" alt="Preview">
 
 <h2>Live Demo</h2>
-<p>BSee the live demo on my Code Pen:<a href="https://codepen.io/Yashi-the-lessful/pen/yLWmGJX">https://codepen.io/Yashi-the-lessful/pen/yLWmGJX</a></p>
+<p>You can live demo on my Code Pen: <a href="https://codepen.io/Yashi-the-lessful/pen/yLWmGJX">https://codepen.io/Yashi-the-lessful/pen/yLWmGJX</a></p>
 
 <h2>Prerequisites</h2>
 <ol>
